@@ -2,8 +2,15 @@
 
 This utility allows you to copy an existing Adobe Premiere Pro Production folder and rename it for a new production.
 
+## PC/Mac Compatibility
+This has only been tested on Windows 11. I could use help having a few people test it on Mac OS and report back how well it works.
+
+## Installation
+Install Python on your local machine. https://www.python.org/downloads/
+Download the Copy Adobe Production.py and save it where you save other video editing tools you use.
+
 ## Usage
-Launch the Copy_Adobe_Production.py script. This can be done by double clicking the file in Windows Explorer, or opening a terminal and typing “python Copy_Adobe Production.py”.
+Launch the Copy_Adobe_Production.py script. This can be done by double clicking the file in Windows Explorer, or opening a terminal (Start > Windows PowerShell) and typing “python Copy_Adobe Production.py”.
 
 When prompted, enter the full path to the existing Production folder you want to copy. For example: 
 
