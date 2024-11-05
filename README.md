@@ -34,6 +34,3 @@ The terminal window will display many printed messages. These are useful for und
 * Does not check for valid path before asking for new production folder name
 * Tries to copy production folder even though it previously said folder already exists
 * Doesn’t gracefully exit if Production folder already exists
-
-# Use of AI
-Generative AI was used to assist in the writing of this code.
